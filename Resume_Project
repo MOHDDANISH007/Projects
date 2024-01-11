@@ -1,105 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Resume</title>
-</head>
-<body>
-    <img src="https://media.licdn.com/dms/image/C5603AQFYKW0Eo-QCVg/profile-displayphoto-shrink_800_800/0/1662405816884?e=1710374400&v=beta&t=SvkuT85vaUm5cYjgfWXimN4sCbq1Jm-00VBjF3LHLyc" width="20%" alt="click here">
-    <h1>Mohd Danish</h1>
-    <p>I ❤️ Web Development and Competitive Programming</p>
-    <hr>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Resume</title>
+    </head>
+    <body>
+        <img src="https://media.licdn.com/dms/image/C5603AQFYKW0Eo-QCVg/profile-displayphoto-shrink_800_800/0/1662405816884?e=1710374400&v=beta&t=SvkuT85vaUm5cYjgfWXimN4sCbq1Jm-00VBjF3LHLyc" width="20%" alt="click here" />
+        <h1>Mohd Danish</h1>
+        <p>I Am Also a Frontend Developer</p>
+        <p>I ❤️ Web Development and Competitive Programming</p>
+        <hr />
 
-    <!-- Header Ends -->
+        <!-- Header Ends -->
 
-    <h2>Education</h2>
-    <table border="1">
-        <!-- style="background: chartreuse;" --> 
-        <tr > 
-            <th>Course</th>
-            <th>Institute</th>
-            <th>Year</th>
-            <th>Result</th>
-        </tr>
-        <tr>
-            <td>B.TECH in CSE</td>
-            <td>Integral University, Lucknow</td>
-            <td>2026</td>
-            <td>80%</td>
-        </tr>
-        <tr>
-            <td>12 <sup>th</sup> Grade</td>
-            <td>Central Academy</td>
-            <td>2021</td>
-            <td>72%</td>
-        </tr>
-    </table>
+        <h2>Education</h2>
+        <table border="1">
+            <!-- style="background: chartreuse;" -->
+            <tr>
+                <th>Course</th>
+                <th>Institute</th>
+                <th>Year</th>
+                <th>Result</th>
+            </tr>
+            <tr>
+                <td>B.TECH in CSE</td>
+                <td>Integral University, Lucknow</td>
+                <td>2026</td>
+                <td>80%</td>
+            </tr>
+            <tr>
+                <td>12 <sup>th</sup> Grade</td>
+                <td>Central Academy</td>
+                <td>2021</td>
+                <td>72%</td>
+            </tr>
+        </table>
 
-    <h2>Internship</h2>
-    <p><b>CodSoft</b></p>
-    <p><b>Build C++ Projects</b></p>
+        <h2>Internship</h2>
+        <p><b>CodSoft</b></p>
+        <p><b>Build C++ Projects</b></p>
 
-    <ul>
-        <li>
-            Simple Calculator Programming
-            <ul>
-                <li type="disc">
-                    <p>The operator is stored in the variable 'op,' and two operands are stored in 'num1' and 'num2,' respectively. Then, the switch...case statement is used for checking the operator entered by the user. If the user enters +, then statements for case: '+' are executed, and the program is terminated.</p>
-                </li>
-                <li type="disc">
-                    <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/Simple_Calculator.cpp">Simple Calculator</a>
-                </li>
-            </ul>
-        </li>
-        <br>
+        <ul>
+            <li>
+                Simple Calculator Programming
+                <ul>
+                    <li type="disc">
+                        <p>
+                            The operator is stored in the variable 'op,' and two operands are stored in 'num1' and 'num2,' respectively. Then, the switch...case statement is used for checking the operator entered by the user. If the user
+                            enters +, then statements for case: '+' are executed, and the program is terminated.
+                        </p>
+                    </li>
+                    <li type="disc">
+                        <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/Simple_Calculator.cpp">Simple Calculator</a>
+                    </li>
+                </ul>
+            </li>
+            <br />
 
-        <li>
-            Number Guessing Game
-            <ul>
-                <li type="disc">
-                    <p>During the game, a player tells the computer his assumption about a number, and the computer tells if the player is correct. If his number is less or more than the secret number, the computer informs the player, and the player tries again. The player can also end the game at any time.</p>
-                </li>
-                <li type="disc">
-                    <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/NUMBER_GUESSING_GAME.cpp">Number Guessing Game</a>
-                </li>
-            </ul>
-        </li>
-        <br>
+            <li>
+                Number Guessing Game
+                <ul>
+                    <li type="disc">
+                        <p>
+                            During the game, a player tells the computer his assumption about a number, and the computer tells if the player is correct. If his number is less or more than the secret number, the computer informs the player,
+                            and the player tries again. The player can also end the game at any time.
+                        </p>
+                    </li>
+                    <li type="disc">
+                        <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/NUMBER_GUESSING_GAME.cpp">Number Guessing Game</a>
+                    </li>
+                </ul>
+            </li>
+            <br />
 
-        <li>To_Do_List
-            <ul>
-                <li type="disc">
-                    <p>To-do lists help you organize your work and keep track of tasks. A good digital to-do list makes it easier to get work done—and makes it harder to miss deadlines</p>
-                </li>
+            <li>
+                To_Do_List
+                <ul>
+                    <li type="disc">
+                        <p>To-do lists help you organize your work and keep track of tasks. A good digital to-do list makes it easier to get work done—and makes it harder to miss deadlines</p>
+                    </li>
 
-                <li type="disc">
-                    <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/To_Do_List.cpp"> To Do List</a>
-                </li>
-            </ul>
-        </li>
-    </ul>
-    <hr>
+                    <li type="disc">
+                        <a target="_blank" href="https://github.com/MOHDDANISH007/Codsoft-project/blob/master/To_Do_List.cpp"> To Do List</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <hr />
 
-    <!-- Main Section End -->
-    <h2>Connect With Me</h2>
-    <ul>
-        <li>
-            <a target="_blank" href="https://github.com/MOHDDANISH007">Git Hub Profile </a>
+        <!-- Main Section End -->
+        <h2>Connect With Me</h2>
+        <ul>
+            <li>
+                <a target="_blank" href="https://github.com/MOHDDANISH007">Git Hub Profile </a>
+            </li>
 
-        </li>
+            <li>
+                <a target="_blank" href="m.danish00707@gmail.com">
+                    Email ID
+                </a>
+            </li>
 
-        <li>
-            <a target="_blank" href="m.danish00707@gmail.com">
-                Email ID
-            </a>
-        </li>
-
-        <li>
-            <a href="https://leetcode.com/user4987tb/" target="_blank">LeetCode</a>
-        </li>
-      
-    </ul>
-
-</body>
+            <li>
+                <a href="https://leetcode.com/user4987tb/" target="_blank">LeetCode</a>
+            </li>
+        </ul>
+    </body>
 </html>
+
